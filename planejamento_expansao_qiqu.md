@@ -4,7 +4,7 @@
 
 O projeto QIQU (Quantum Intelligence Quotient Unit) da Hubstry DeepTech se posiciona como um núcleo conceitual e exploratório dedicado ao monitoramento, pesquisa teórica e construção de uma visão estratégica no campo da computação quântica. Sua atuação abrange desdobramentos em Inteligência Artificial, criptografia, linguagens de programação e infraestrutura de dados, com foco em linguagens holísticas e simbólicas como Gurudev.
 
-O roadmap de 10 anos (2025-2035) delineia fases de monitoramento, alianças estratégicas, desenvolvimento de modelos teóricos (Gurudev-QC), criação de MVPs teóricos (compiladores e simuladores) e integração com hardware quântico emergente. A proposta do usuário de expandir o projeto para um repositório GitHub e desenvolver artefatos tecnológicos se alinha perfeitamente com as fases 3 e 4 do roadmap, que preveem a criação de MVPs teóricos e a disponibilização de repositórios abertos.
+O roadmap de 10 anos (2025-2035) delineia fases de monitoramento, alianças estratégicas, desenvolvimento de modelos teóricos (Gurudev-QC), criação de MVPs teóricos (compiladores e simuladores) e integração com hardware quântico emergente. A nossa proposta  de expandir o projeto para um repositório GitHub e desenvolver artefatos tecnológicos se alinha perfeitamente com as fases 3 e 4 do roadmap, que preveem a criação de MVPs teóricos e a disponibilização de repositórios abertos.
 
 ## 2. Áreas de Expansão e Artefatos Tecnológicos Propostos
 
@@ -93,7 +93,7 @@ O repositório GitHub será o ponto central para o desenvolvimento e colaboraç�
 
 ## 4. Próximos Passos
 
-1.  **Criação do Repositório GitHub:** Inicializar o repositório com a estrutura básica proposta.
+1.  **Gestão do Repositório GitHub:** Atualizar o repositório com a estrutura básica proposta.
 2.  **Desenvolvimento Iterativo:** Iniciar o desenvolvimento dos artefatos tecnológicos em fases, priorizando o Gurudev-QC SDK e o simulador.
 3.  **Documentação Contínua:** Manter a documentação atualizada no repositório, incluindo guias de uso, exemplos e contribuições.
 4.  **Engajamento da Comunidade:** Promover a colaboração e o feedback da comunidade para impulsionar o desenvolvimento do projeto.
